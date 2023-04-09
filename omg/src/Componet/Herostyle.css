@@ -1,0 +1,26 @@
+.home {
+  height: 10vh;
+  width: 100%;
+  position: relative;
+}
+img {
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+}
+.hero-texa {
+  position: absolute;
+  top: 400%;
+  left: 50%;
+  transform: translate(-50%);
+}
+.hero-texa h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #fff;
+}
+.hero-texa p {
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 0.5rem 0 3rem 0;
+}
